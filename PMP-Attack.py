@@ -16,7 +16,7 @@ import utils
 from attacker import NewAttacker, Attacker
 
 advimages_path = './advimages'
-def retrieval_eval(model, ref_model, tokenizer, device):
+def attack(model, ref_model, tokenizer, device):
     model.float()
     model.eval()
     ref_model.eval()
@@ -98,7 +98,7 @@ def main(args, config):
     model, ref_model, tokenizer = load_model(args.source_model, args.source_ckpt, args.source_text_encoder, device)
     model = model.to(device)
     ref_model = ref_model.to(device)
-    retrieval_eval(model, ref_model, tokenizer, device)
+    attack(model, ref_model, tokenizer, device)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
