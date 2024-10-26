@@ -1,7 +1,6 @@
 # Precision-Guided Adversarial Attack
 
 The official repository for Precision-Guided Adversarial Attack (PG-Attack).
-
 **First-Place in the CVPR 2024 Workshop Challenge: Black-box Adversarial Attacks on Vision Foundation Models** 
 
 Paper: *PG-Attack: A Precision-Guided Adversarial Attack Framework Against Vision Foundation Models for Autonomous Driving* (https://arxiv.org/abs/2407.13111)
