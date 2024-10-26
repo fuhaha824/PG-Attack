@@ -8,7 +8,7 @@ The official repository for Precision-Guided Adversarial Attack (PG-Attack).
 Paper: *PG-Attack: A Precision-Guided Adversarial Attack Framework Against Vision Foundation Models for Autonomous Driving* (https://arxiv.org/abs/2407.13111)
 
 ## Brief Introduction
-Vision foundation models are widely used in autonomous driving, but they are vulnerable to adversarial attacks, risking vehicle safety. We propose PG-Attack, a framework combining Precision Mask Perturbation (PMP-Attack) and Deceptive Text Patch (DTP-Attack). PMP-Attack precisely targets regions to maximize impact, while DTP-Attack adds misleading text patches, confusing the model’s scene understanding. Our method effectively deceives advanced multi-modal models like GPT-4V, Qwen-VL, and imp-V1, and won First Place in the CVPR 2024 Workshop Challenge on Black-box Adversarial Attacks for Vision Foundation Models.
+Vision foundation models are widely used in autonomous driving, but they are vulnerable to adversarial attacks, risking vehicle safety. We propose PG-Attack, a framework combining Precision Mask Perturbation (PMP-Attack) and Deceptive Text Patch (DTP-Attack). PMP-Attack precisely targets regions to maximize impact, while DTP-Attack adds misleading text patches, confusing the model’s scene understanding. Our method effectively deceives advanced multi-modal models like GPT-4V, Qwen-VL, and imp-V1.
 
 ## Framework
 <p align="left">
