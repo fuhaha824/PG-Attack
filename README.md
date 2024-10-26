@@ -18,6 +18,7 @@ Paper: *PG-Attack: A Precision-Guided Adversarial Attack Framework Against Visio
     <img src="./imgs/vis.png" width=83%\>
 </p>
 
+## Citation
 If you find our paper interesting or helpful to your research, please consider citing it, and feel free to contact fujy23@m.fudan.edu.cn if you have any questions.
 ```
 @article{fu2024pgattack,
