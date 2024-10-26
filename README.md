@@ -9,8 +9,7 @@ Paper: *PG-Attack: A Precision-Guided Adversarial Attack Framework Against Visio
 
 
 
-Please consider citing our paper if you find it interesting or helpful to your research.
-
+If you find our paper interesting or helpful to your research, please consider citing it, and feel free to contact fujy23@m.fudan.edu.cn if you have any questions.
 ```
 @article{fu2024pgattack,
   title={PG-Attack: A Precision-Guided Adversarial Attack Framework Against Vision Foundation Models for Autonomous Driving}, 
