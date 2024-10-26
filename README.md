@@ -7,12 +7,15 @@ The official repository for Precision-Guided Adversarial Attack (PG-Attack).
 
 Paper: *PG-Attack: A Precision-Guided Adversarial Attack Framework Against Vision Foundation Models for Autonomous Driving* (https://arxiv.org/abs/2407.13111)
 
-
+## Framework
+<p align="center">
+    <img src="./imgs/pipeline.png" width=83%\>
+</p>
 
 
 ## Visualization
 <p align="center">
-    <img src="./imgs/vis.png" width=80%\>
+    <img src="./imgs/vis.png" width=83%\>
 </p>
 
 If you find our paper interesting or helpful to your research, please consider citing it, and feel free to contact fujy23@m.fudan.edu.cn if you have any questions.
