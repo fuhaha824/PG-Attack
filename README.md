@@ -10,6 +10,10 @@ Paper: *PG-Attack: A Precision-Guided Adversarial Attack Framework Against Visio
 ## Brief Introduction
 Vision foundation models are widely used in autonomous driving, but they are vulnerable to adversarial attacks, risking vehicle safety. We propose PG-Attack, a framework combining Precision Mask Perturbation (PMP-Attack) and Deceptive Text Patch (DTP-Attack). PMP-Attack precisely targets regions to maximize impact, while DTP-Attack adds misleading text patches, confusing the model’s scene understanding. Our method effectively deceives advanced multi-modal models like GPT-4V, Qwen-VL, and imp-V1.
 
+## Prepare checkpoints
+Please download the model file from the following [link](https://drive.google.com/file/d/1C3_EDel0TpLJHjYGGfRrEQqJ5XB9IQJn/view?usp=drive_link) 
+
+
 ## Framework
 <p align="left">
     <img src="./imgs/pipeline.png" width=83%\>
