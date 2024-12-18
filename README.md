@@ -34,6 +34,15 @@ If you find our paper interesting or helpful to your research, please consider c
   journal={arXiv preprint arXiv:2407.13111},
   year={2024}
 }
+
+@misc{fu2024cmi,
+      title={Improving Adversarial Transferability of Vision-Language Pre-training Models through Collaborative Multimodal Interaction}, 
+      author={Jiyuan Fu and Zhaoyu Chen and Kaixun Jiang and Haijing Guo and Jiafeng Wang and Shuyong Gao and Wenqiang Zhang},
+      year={2024},
+      eprint={2403.10883},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+}
 ```
 
 ## License
